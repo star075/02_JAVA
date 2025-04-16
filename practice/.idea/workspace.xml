@@ -5,17 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43b9e4d2-ea5e-4de5-ac94-e10a02d0cce8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch02/sec13/ScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch01/sec09/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch01/sec11/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch01/sec11/VariableInitializationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch01/sec11/lecture/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec06/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec08/lecture/TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec03/OverflowUnderflowExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch01/verify/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec01/VariableExchangeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec01/VariableUseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec08/CastingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch02/sec08/StringConcatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec01/IncreaseDecreaseOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch05/sec05/CharAtExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch05/sec05/ReplaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch05/sec05/SubStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/day0416/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/day0416/book/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/day0416/book/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/day0416/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec06/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam02/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam02/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam03/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam04/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam05/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec07/exam05/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam01/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam02/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam02/ComputerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam03/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam04/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec09/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec09/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec10/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec10/exam01/CalculatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ch01/sec09/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch01/sec09/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ch01/sec11/VariableInitializationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch01/sec11/VariableInitializationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ch02/sec06/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch02/sec06/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ch03/sec03/OverflowUnderflowExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch03/sec03/OverflowUnderflowExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +73,34 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AccuracyExample.executor": "Run",
+    "Application.Application.executor": "Run",
+    "Application.Application2.executor": "Run",
+    "Application.ArrayCopy.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CalculatorExample.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.CarExample.executor": "Run",
+    "Application.CastingExample.executor": "Run",
+    "Application.ComputerExample.executor": "Run",
+    "Application.Example.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.IncreaseDecreaseOperatorExample.executor": "Run",
+    "Application.KoreanExample.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OverflowUnderflowExample.executor": "Run",
     "Application.ScannerExample.executor": "Run",
+    "Application.StringConcatExample.executor": "Run",
     "Application.StringExample.executor": "Run",
+    "Application.SubStringExample.executor": "Run",
+    "Application.VariableExchangeExample.executor": "Run",
+    "Application.VariableUseExample.executor": "Run",
+    "Application.practice.ch06.sec08.exam03.CarExample.executor": "Run",
+    "Application.practice.ch06.sec08.exam04.CalculatorExample.executor": "Run",
+    "Application.practice.ch06.sec09.CarExample.executor": "Run",
+    "Application.practice.ch06.sec10.exam01.CalculatorExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -56,17 +108,22 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ScannerExample">
-    <configuration name="AccuracyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch03.sec04.AccuracyExample" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="practice.ch06" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.practice.ch06.sec08.exam03.CarExample">
+    <configuration name="ComputerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch06.sec08.exam02.ComputerExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch03.sec04.*" />
+          <option name="PATTERN" value="practice.ch06.sec08.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch01.sec09.Hello" />
+    <configuration name="practice.ch06.sec08.exam03.CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch06.sec08.exam03.CarExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch01.sec09.*" />
+          <option name="PATTERN" value="practice.ch06.sec08.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverflowUnderflowExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch03.sec03.OverflowUnderflowExample" />
+    <configuration name="practice.ch06.sec08.exam04.CalculatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch06.sec08.exam04.CalculatorExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch03.sec03.*" />
+          <option name="PATTERN" value="practice.ch06.sec08.exam04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch02.sec13.ScannerExample" />
+    <configuration name="practice.ch06.sec09.CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch06.sec09.CarExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch02.sec13.*" />
+          <option name="PATTERN" value="practice.ch06.sec09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch02.sec06.StringExample" />
+    <configuration name="practice.ch06.sec10.exam01.CalculatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch06.sec10.exam01.CalculatorExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch02.sec06.*" />
+          <option name="PATTERN" value="practice.ch06.sec10.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.AccuracyExample" />
-        <item itemvalue="Application.OverflowUnderflowExample" />
-        <item itemvalue="Application.StringExample" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.practice.ch06.sec08.exam03.CarExample" />
+        <item itemvalue="Application.practice.ch06.sec09.CarExample" />
+        <item itemvalue="Application.practice.ch06.sec10.exam01.CalculatorExample" />
+        <item itemvalue="Application.practice.ch06.sec08.exam04.CalculatorExample" />
+        <item itemvalue="Application.ComputerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -153,12 +210,36 @@
       <option name="presentableId" value="Default" />
       <updated>1744695342963</updated>
       <workItem from="1744695343948" duration="816000" />
-      <workItem from="1744696166840" duration="6044000" />
+      <workItem from="1744696166840" duration="28699000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basic/ch01/sec09/Hello.java</url>
+          <line>4</line>
+          <properties class="basic.ch01.sec09.Hello" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/basic/lecture/day0416/ArrayCopy.java</url>
+          <line>3</line>
+          <properties class="basic.lecture.day0416.ArrayCopy">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
