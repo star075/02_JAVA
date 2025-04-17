@@ -1,4 +1,4 @@
-package basic.ch06.sec08.lecture;
+package basic.ch06.sec08.lecture.problem1;
 
 public class Application {
     public static void main(String[] args) {

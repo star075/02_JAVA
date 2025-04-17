@@ -9,15 +9,40 @@
       <change afterPath="$PROJECT_DIR$/src/advanced/ch02/sec12/PrintfExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/advanced/ch03/sec01/TrapezoidArea.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/advanced/ch03/sec02/CombinedOperatorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch04/sec01/SumOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch04/sec02/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch04/sec02/StarReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch04/sec03/LinearEquationSolver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec06/CompareOperatorExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec07/LogicalOperatorExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec10/AssignmentOperatorExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec11/ConditionalOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec02/IfElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec02/IfElseIfElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec02/IfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec03/SwitchCharExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec03/SwitchNoBreakCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec04/MultiplicationTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec04/PrintFrom1To10Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec04/SumFrom1To100Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec05/KeyControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec05/PrintFrom1To10Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec06/DoWhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec07/BreakExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec08/ContinueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch06/sec08/lecture/KindsOfVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch06/sec08/lecture/problem1/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch06/sec08/lecture/problem1/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch06/sec08/lecture/problem2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam04/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam04/Calculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam04/CalculatorExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/advanced/ch02/sec13/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ch02/sec13/ScannerExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ch04/sec02/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +74,7 @@
     "Application.Application2.executor": "Run",
     "Application.ArrayCopy.executor": "Run",
     "Application.AssignmentOperatorExample.executor": "Run",
+    "Application.BreakExample.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CalculatorExample.executor": "Run",
     "Application.Car.executor": "Run",
@@ -57,21 +83,38 @@
     "Application.CombinedOperatorsExample.executor": "Run",
     "Application.CompareOperatorExample.executor": "Run",
     "Application.ComputerExample.executor": "Run",
+    "Application.ContinueExample.executor": "Run",
+    "Application.DoWhileExample.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.IfDiceExample.executor": "Run",
+    "Application.IfElseExample.executor": "Run",
+    "Application.IfElseIfElseExample.executor": "Run",
+    "Application.IfExample.executor": "Run",
     "Application.IncreaseDecreaseOperatorExample.executor": "Run",
+    "Application.KeyControlExample.executor": "Run",
     "Application.KoreanExample.executor": "Run",
+    "Application.LinearEquationSolver.executor": "Run",
     "Application.LogicalOperatorExample.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MultiplicationTableExample.executor": "Run",
     "Application.OverflowUnderflowExample.executor": "Run",
+    "Application.PrintFrom1To10Example.executor": "Run",
     "Application.PrintfExample.executor": "Run",
     "Application.ScannerExample.executor": "Run",
+    "Application.Star.executor": "Run",
+    "Application.StarReverse.executor": "Run",
     "Application.StringConcatExample.executor": "Run",
     "Application.StringExample.executor": "Run",
     "Application.SubStringExample.executor": "Run",
+    "Application.SumFrom1To100Example.executor": "Run",
+    "Application.SumOfThree.executor": "Run",
+    "Application.SwitchCharExample.executor": "Run",
+    "Application.SwitchNoBreakCaseExample.executor": "Run",
     "Application.TrapezoidArea.executor": "Run",
     "Application.VariableExchangeExample.executor": "Run",
     "Application.VariableUseExample.executor": "Run",
+    "Application.basic.ch04.sec05.PrintFrom1To10Example.executor": "Run",
     "Application.practice.ch06.sec08.exam03.CarExample.executor": "Run",
     "Application.practice.ch06.sec08.exam04.CalculatorExample.executor": "Run",
     "Application.practice.ch06.sec09.CarExample.executor": "Run",
@@ -95,13 +138,13 @@
       <recent name="practice.ch06" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerExample">
-    <configuration name="CombinedOperatorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch03.sec02.CombinedOperatorsExample" />
+  <component name="RunManager" selected="Application.LinearEquationSolver">
+    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch04.sec08.ContinueExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch03.sec02.*" />
+          <option name="PATTERN" value="basic.ch04.sec08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch03.sec06.CompareOperatorExample" />
+    <configuration name="LinearEquationSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch04.sec03.LinearEquationSolver" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch03.sec06.*" />
+          <option name="PATTERN" value="advanced.ch04.sec03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch02.sec12.PrintfExample" />
+    <configuration name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch04.sec02.Star" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch02.sec12.*" />
+          <option name="PATTERN" value="advanced.ch04.sec02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch02.sec13.ScannerExample" />
+    <configuration name="StarReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch04.sec02.StarReverse" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch02.sec13.*" />
+          <option name="PATTERN" value="advanced.ch04.sec02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrapezoidArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch03.sec01.TrapezoidArea" />
+    <configuration name="SumOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch04.sec01.SumOfThree" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch03.sec01.*" />
+          <option name="PATTERN" value="advanced.ch04.sec01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.CombinedOperatorsExample" />
-        <item itemvalue="Application.TrapezoidArea" />
-        <item itemvalue="Application.PrintfExample" />
-        <item itemvalue="Application.CompareOperatorExample" />
+        <item itemvalue="Application.LinearEquationSolver" />
+        <item itemvalue="Application.StarReverse" />
+        <item itemvalue="Application.Star" />
+        <item itemvalue="Application.SumOfThree" />
+        <item itemvalue="Application.ContinueExample" />
       </list>
     </recent_temporary>
   </component>
@@ -188,12 +231,23 @@
       <option name="presentableId" value="Default" />
       <updated>1744695342963</updated>
       <workItem from="1744695343948" duration="816000" />
-      <workItem from="1744696166840" duration="37614000" />
+      <workItem from="1744696166840" duration="52616000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -225,6 +279,11 @@
           <url>file://$PROJECT_DIR$/src/advanced/ch03/sec01/TrapezoidArea.java</url>
           <line>2</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/ch04/sec04/MultiplicationTableExample.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
