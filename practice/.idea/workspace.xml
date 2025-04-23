@@ -5,44 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43b9e4d2-ea5e-4de5-ac94-e10a02d0cce8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch02/sec10/PrimitiveAndStringConversionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch02/sec12/PrintfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch03/sec01/TrapezoidArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch03/sec02/CombinedOperatorsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch04/sec01/SumOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch04/sec02/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch04/sec02/StarReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch04/sec03/LinearEquationSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec06/CompareOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec07/LogicalOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec10/AssignmentOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch03/sec11/ConditionalOperationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec02/IfElseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec02/IfElseIfElseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec02/IfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec03/SwitchCharExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec03/SwitchNoBreakCaseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec04/MultiplicationTableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec04/PrintFrom1To10Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec04/SumFrom1To100Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec05/KeyControlExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec05/PrintFrom1To10Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec06/DoWhileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec07/BreakExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch04/sec08/ContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch06/sec08/lecture/KindsOfVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch06/sec08/lecture/problem1/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch06/sec08/lecture/problem1/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch06/sec08/lecture/problem2/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam04/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam04/Calculator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch06/sec08/exam04/CalculatorExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch07/exam/FileDownloadServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch07/exam/HttpServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch07/exam/HttpServletExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch07/exam/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam01/HankookTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam01/KumhoTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam01/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam02/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam02/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam02/DriverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam02/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec11/exam02/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec12/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec12/InstanceofExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec12/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch08/sec12/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec03/exam02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec03/exam02/SmartPhoneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec03/exam02/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam01/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam01/ComputerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam02/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam02/SupersonicAirplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam02/SupersonicAirplaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam03/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam03/ChildExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec04/exam03/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam01/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam01/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam01/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam01/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam01/PromotionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam02/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam02/ChildExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec07/exam02/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam01/HankookTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam01/KumhoTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam01/TeslaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam01/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam02/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam02/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam02/DriverExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam02/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec08/exam02/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec10/lecture/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec10/lecture/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch07/sec10/lecture/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/lecture/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/lecture/InterProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/lecture/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec02/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec02/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec02/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec02/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec04/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec04/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec04/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec04/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec08/MultiInterfaceImplExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec08/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec08/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec08/SmartTelevision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec09/ExtendsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec09/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec09/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec09/InterfaceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec09/InterfaceCImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec10/exam02/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec10/exam02/CastingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch08/sec10/exam02/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/ch02/sec13/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ch02/sec13/ScannerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch03/sec04/AccuracyExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ch04/sec02/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +93,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -80,28 +123,36 @@
     "Application.Car.executor": "Run",
     "Application.CarExample.executor": "Run",
     "Application.CastingExample.executor": "Run",
+    "Application.ChildExample.executor": "Run",
     "Application.CombinedOperatorsExample.executor": "Run",
     "Application.CompareOperatorExample.executor": "Run",
     "Application.ComputerExample.executor": "Run",
     "Application.ContinueExample.executor": "Run",
     "Application.DoWhileExample.executor": "Run",
+    "Application.DriverExample.executor": "Run",
     "Application.Example.executor": "Run",
+    "Application.ExtendsExample.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.HttpServletExample.executor": "Run",
     "Application.IfDiceExample.executor": "Run",
     "Application.IfElseExample.executor": "Run",
     "Application.IfElseIfElseExample.executor": "Run",
     "Application.IfExample.executor": "Run",
     "Application.IncreaseDecreaseOperatorExample.executor": "Run",
+    "Application.InstanceofExample.executor": "Run",
     "Application.KeyControlExample.executor": "Run",
     "Application.KoreanExample.executor": "Run",
     "Application.LinearEquationSolver.executor": "Run",
     "Application.LogicalOperatorExample.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MultiInterfaceImplExample.executor": "Run",
     "Application.MultiplicationTableExample.executor": "Run",
     "Application.OverflowUnderflowExample.executor": "Run",
     "Application.PrintFrom1To10Example.executor": "Run",
     "Application.PrintfExample.executor": "Run",
+    "Application.RemoteControlExample.executor": "Run",
     "Application.ScannerExample.executor": "Run",
+    "Application.SmartPhoneExample.executor": "Run",
     "Application.Star.executor": "Run",
     "Application.StarReverse.executor": "Run",
     "Application.StringConcatExample.executor": "Run",
@@ -115,6 +166,7 @@
     "Application.VariableExchangeExample.executor": "Run",
     "Application.VariableUseExample.executor": "Run",
     "Application.basic.ch04.sec05.PrintFrom1To10Example.executor": "Run",
+    "Application.basic.ch08.sec04.RemoteControlExample.executor": "Run",
     "Application.practice.ch06.sec08.exam03.CarExample.executor": "Run",
     "Application.practice.ch06.sec08.exam04.CalculatorExample.executor": "Run",
     "Application.practice.ch06.sec09.CarExample.executor": "Run",
@@ -138,13 +190,13 @@
       <recent name="practice.ch06" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinearEquationSolver">
-    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch04.sec08.ContinueExample" />
+  <component name="RunManager" selected="Application.AbstractMethodExample">
+    <configuration name="AbstractMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch07.sec10.exam02.AbstractMethodExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch04.sec08.*" />
+          <option name="PATTERN" value="advanced.ch07.sec10.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearEquationSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch04.sec03.LinearEquationSolver" />
+    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch07.sec08.exam01.CarExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch04.sec03.*" />
+          <option name="PATTERN" value="basic.ch07.sec08.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch04.sec02.Star" />
+    <configuration name="ChildExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch07.sec04.exam03.ChildExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch04.sec02.*" />
+          <option name="PATTERN" value="basic.ch07.sec04.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch04.sec02.StarReverse" />
+    <configuration name="DriverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch07.sec08.exam02.DriverExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch04.sec02.*" />
+          <option name="PATTERN" value="basic.ch07.sec08.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch04.sec01.SumOfThree" />
+    <configuration name="HttpServletExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch07.exam.HttpServletExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch04.sec01.*" />
+          <option name="PATTERN" value="advanced.ch07.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinearEquationSolver" />
-        <item itemvalue="Application.StarReverse" />
-        <item itemvalue="Application.Star" />
-        <item itemvalue="Application.SumOfThree" />
-        <item itemvalue="Application.ContinueExample" />
+        <item itemvalue="Application.AbstractMethodExample" />
+        <item itemvalue="Application.HttpServletExample" />
+        <item itemvalue="Application.DriverExample" />
+        <item itemvalue="Application.CarExample" />
+        <item itemvalue="Application.ChildExample" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +283,8 @@
       <option name="presentableId" value="Default" />
       <updated>1744695342963</updated>
       <workItem from="1744695343948" duration="816000" />
-      <workItem from="1744696166840" duration="52616000" />
+      <workItem from="1744696166840" duration="53966000" />
+      <workItem from="1745201007401" duration="34813000" />
     </task>
     <servers />
   </component>
