@@ -1,4 +1,4 @@
-package basic.lecture.day0416.book;
+package basic.lecture.object0416.book;
 
 public class Application2 {
     public static void main(String[] args) {

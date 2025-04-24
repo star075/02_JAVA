@@ -1,4 +1,4 @@
-package basic.lecture.day0416.book;
+package basic.lecture.object0416.book;
 
 public class Book {
     // 통상적으로 상단에는 필드, 그다음 생성자, 맨아래에 메소드를 씀

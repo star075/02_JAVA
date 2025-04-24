@@ -1,4 +1,4 @@
-package basic.lecture.day0416;
+package basic.lecture.object0416;
 
 public class ArrayCopy {
     public static void main(String[] args) {

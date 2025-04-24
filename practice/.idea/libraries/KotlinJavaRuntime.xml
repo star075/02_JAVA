@@ -1,5 +1,8 @@
 <component name="libraryTable">
   <library name="KotlinJavaRuntime" type="repository">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </ANNOTATIONS>
     <CLASSES />
     <JAVADOC />
     <SOURCES />
