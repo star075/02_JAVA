@@ -5,26 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43b9e4d2-ea5e-4de5-ac94-e10a02d0cce8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch14/exam/MovieThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch14/exam/MusicRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch14/exam/ThreadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/exam02/BeepPrintExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/exam02/BeepPrintExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/exam02/BeepPrintExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/exam02/MBeepPrintExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/exam02/RunnableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/exam03/BeepPrintExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/synchronization/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/synchronization/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch14/sec03/synchronization/SafeAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/javabase0423/lecture/date/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/javabase0423/lecture/date/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/javabase0423/lecture/date/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/javabase0423/lecture/string/StringBuilderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/javabase0423/lecture/string/StringTokenizerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/javabase0423/lecture/wrapper/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/javabase0423/lecture/wrapper/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/multithread0424/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch13/sec03/exam01/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch13/sec03/exam01/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec01/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec01/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/CarAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/HomeAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/Rentable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Bunny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/DrunkenBunny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/RabbitFarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/WildCardFarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/run/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/run/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/generic0429/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/generic0429/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/list0430/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/list0430/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/list0430/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec03/exam01/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec03/exam02/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec03/exam02/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec03/exam03/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec04/exam01/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec06/exam01/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec06/exam01/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec06/exam02/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec06/exam02/QueueExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -82,6 +102,9 @@
     "Application.ExceptionHandlingExample.executor": "Run",
     "Application.ExceptionHandlingExample1.executor": "Run",
     "Application.ExtendsExample.executor": "Run",
+    "Application.GenericExample.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.HashSetExample.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.HttpServletExample.executor": "Run",
     "Application.IfDiceExample.executor": "Run",
@@ -101,9 +124,11 @@
     "Application.OverflowUnderflowExample.executor": "Run",
     "Application.PrintFrom1To10Example.executor": "Run",
     "Application.PrintfExample.executor": "Run",
+    "Application.QueueExample.executor": "Run",
     "Application.RemoteControlExample.executor": "Run",
     "Application.ScannerExample.executor": "Run",
     "Application.SmartPhoneExample.executor": "Run",
+    "Application.StackExample.executor": "Run",
     "Application.Star.executor": "Run",
     "Application.StarReverse.executor": "Run",
     "Application.StringBuilderExample.executor": "Run",
@@ -121,6 +146,9 @@
     "Application.VariableUseExample.executor": "Run",
     "Application.basic.ch04.sec05.PrintFrom1To10Example.executor": "Run",
     "Application.basic.ch08.sec04.RemoteControlExample.executor": "Run",
+    "Application.basic.ch13.sec02.exam01.GenericExample.executor": "Run",
+    "Application.basic.ch13.sec02.exam02.GenericExample.executor": "Run",
+    "Application.basic.ch13.sec03.exam01.GenericExample.executor": "Run",
     "Application.basic.lecture.exception.sec02.Application3.executor": "Run",
     "Application.basic.lecture.exception.sec03.Application.executor": "Run",
     "Application.basic.lecture.exception0423.sec02.Application3.executor": "Run",
@@ -131,6 +159,8 @@
     "Application.practice.ch06.sec08.exam04.CalculatorExample.executor": "Run",
     "Application.practice.ch06.sec09.CarExample.executor": "Run",
     "Application.practice.ch06.sec10.exam01.CalculatorExample.executor": "Run",
+    "Application.practice.ch15.sec03.exam02.HashSetExample.executor": "Run",
+    "Application.practice.ch15.sec03.exam03.HashSetExample.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -163,13 +193,13 @@
       <recent name="basic.lecture.exception.sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadExample">
-    <configuration name="BeepPrintExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch14.sec03.exam02.BeepPrintExample" />
+  <component name="RunManager" selected="Application.QueueExample">
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec04.exam01.HashMapExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch14.sec03.exam02.*" />
+          <option name="PATTERN" value="practice.ch15.sec04.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch14.sec03.synchronization.Example" />
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec03.exam01.HashSetExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch14.sec03.synchronization.*" />
+          <option name="PATTERN" value="practice.ch15.sec03.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MBeepPrintExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.ch14.sec03.exam02.MBeepPrintExample" />
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec06.exam02.QueueExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.ch14.sec03.exam02.*" />
+          <option name="PATTERN" value="practice.ch15.sec06.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced.ch14.exam.ThreadExample" />
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec06.exam01.StackExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced.ch14.exam.*" />
+          <option name="PATTERN" value="practice.ch15.sec06.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="basic.lecture.javabase0423.lecture.string.StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.lecture.javabase0423.lecture.string.StringBuilderExample" />
+    <configuration name="practice.ch15.sec03.exam02.HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec03.exam02.HashSetExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.lecture.javabase0423.lecture.string.*" />
+          <option name="PATTERN" value="practice.ch15.sec03.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadExample" />
-        <item itemvalue="Application.MBeepPrintExample" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.ClassBeepPrintExample" />
-        <item itemvalue="Application.basic.lecture.javabase0423.lecture.string.StringBuilderExample" />
+        <item itemvalue="Application.QueueExample" />
+        <item itemvalue="Application.StackExample" />
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.practice.ch15.sec03.exam02.HashSetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +287,7 @@
       <updated>1744695342963</updated>
       <workItem from="1744695343948" duration="816000" />
       <workItem from="1744696166840" duration="53966000" />
-      <workItem from="1745201007401" duration="72635000" />
+      <workItem from="1745201007401" duration="102437000" />
     </task>
     <servers />
   </component>
