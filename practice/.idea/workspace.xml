@@ -5,46 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43b9e4d2-ea5e-4de5-ac94-e10a02d0cce8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch13/sec03/exam01/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ch13/sec03/exam01/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec01/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec01/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam01/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/CarAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/GenericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/HomeAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/ch13/sec02/exam02/Rentable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Bunny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/DrunkenBunny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/RabbitFarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/WildCardFarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/run/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/extend0429/run/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/generic0429/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/generic0429/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/list0430/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/list0430/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/lecture/list0430/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec03/exam01/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec03/exam02/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec03/exam02/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec03/exam03/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec04/exam01/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec06/exam01/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec06/exam01/StackExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec06/exam02/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ch15/sec06/exam02/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec02/exam01/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec02/exam01/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec02/exam03/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec02/exam03/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec05/exam03/ComparableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec05/exam03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec05/exam04/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec05/exam04/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec05/exam04/FruitComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec05/exercise/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch15/sec05/exercise/ApplicationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam01/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam01/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam01/MethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam03/ConstructorReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam03/Creatable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam03/Creatable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam03/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced/ch16/sec05/exam03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec01/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec01/CalculableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec01/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec02/exam01/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec02/exam01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec02/exam01/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec03/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec03/Speakable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec03/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec04/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec04/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch16/sec04/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch17/sec01/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch17/sec03/StreamPipeLineExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch17/sec03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ch17/sec04/exam02/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/functionalinterface0507/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/functionalinterface0507/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/functionalinterface0507/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/functionalinterface0507/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/functionalinterface0507/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/generation0508/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/lambda0507/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/lecture/lambda0507/Example01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02-conditional-loop-reference/src/basic/ch04/sec02/IfDiceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -81,6 +86,7 @@
     "Application.Application2.executor": "Run",
     "Application.Application3.executor": "Run",
     "Application.ArrayCopy.executor": "Run",
+    "Application.ArrayListExample.executor": "Run",
     "Application.AssignmentOperatorExample.executor": "Run",
     "Application.BeepPrintExample.executor": "Run",
     "Application.BreakExample.executor": "Run",
@@ -115,10 +121,12 @@
     "Application.InstanceofExample.executor": "Run",
     "Application.KeyControlExample.executor": "Run",
     "Application.KoreanExample.executor": "Run",
+    "Application.LambdaExample.executor": "Run",
     "Application.LinearEquationSolver.executor": "Run",
     "Application.LogicalOperatorExample.executor": "Run",
     "Application.MBeepPrintExample.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MethodReferenceExample.executor": "Run",
     "Application.MultiInterfaceImplExample.executor": "Run",
     "Application.MultiplicationTableExample.executor": "Run",
     "Application.OverflowUnderflowExample.executor": "Run",
@@ -190,16 +198,18 @@
       <recent name="practice.ch06" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="advanced.ch16.sec05.exam03" />
+      <recent name="advanced.ch15.sec02.exam03" />
       <recent name="basic.lecture.exception.sec01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueExample">
-    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec04.exam01.HashMapExample" />
+  <component name="RunManager" selected="Application.MethodReferenceExample">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch15.sec02.exam01.ArrayListExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.ch15.sec04.exam01.*" />
+          <option name="PATTERN" value="advanced.ch15.sec02.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +217,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec03.exam01.HashSetExample" />
+    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch13.sec02.exam02.GenericExample" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.ch15.sec03.exam01.*" />
+          <option name="PATTERN" value="basic.ch13.sec02.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ch16.sec01.LambdaExample" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.ch16.sec01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch16.sec05.exam01.MethodReferenceExample" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.ch16.sec05.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,39 +269,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec06.exam01.StackExample" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.ch15.sec06.exam01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practice.ch15.sec03.exam02.HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.ch15.sec03.exam02.HashSetExample" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.ch15.sec03.exam02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodReferenceExample" />
+        <item itemvalue="Application.LambdaExample" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.GenericExample" />
         <item itemvalue="Application.QueueExample" />
-        <item itemvalue="Application.StackExample" />
-        <item itemvalue="Application.HashMapExample" />
-        <item itemvalue="Application.HashSetExample" />
-        <item itemvalue="Application.practice.ch15.sec03.exam02.HashSetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +297,7 @@
       <updated>1744695342963</updated>
       <workItem from="1744695343948" duration="816000" />
       <workItem from="1744696166840" duration="53966000" />
-      <workItem from="1745201007401" duration="102437000" />
+      <workItem from="1745201007401" duration="131952000" />
     </task>
     <servers />
   </component>
